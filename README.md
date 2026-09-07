@@ -38,9 +38,5 @@ top of the previous question, so the conversation flows like a real dialogue.
 
 
 <img width="250"  alt="Simulator Screenshot - iPhone 17 - 2026-09-07 at 16 46 54" src="https://github.com/user-attachments/assets/608983ee-71d3-42fe-9543-50ea13a49432" />
-
-
-
-  
   <img width="250" alt="Chat with a planet" src="https://github.com/user-attachments/assets/054374e8-5711-4953-bb70-bb7914e2cd5d" />
  
