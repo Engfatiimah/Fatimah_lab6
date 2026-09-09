@@ -1,9 +1,9 @@
 import 'dart:convert';
-
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 
 class PlanetChat {
-  final String apiKey = "----";
+  final String apiKey = dotenv.get('api-key');
   final String url =
       "https://generativelanguage.googleapis.com/v1beta/interactions";
 
